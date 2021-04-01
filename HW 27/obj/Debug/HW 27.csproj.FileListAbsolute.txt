@@ -1,7 +1,0 @@
-C:\Users\Work\source\repos\HW 27\HW 27\bin\Debug\HW 27.exe.config
-C:\Users\Work\source\repos\HW 27\HW 27\bin\Debug\HW 27.exe
-C:\Users\Work\source\repos\HW 27\HW 27\bin\Debug\HW 27.pdb
-C:\Users\Work\source\repos\HW 27\HW 27\obj\Debug\HW 27.csprojAssemblyReference.cache
-C:\Users\Work\source\repos\HW 27\HW 27\obj\Debug\HW 27.csproj.CoreCompileInputs.cache
-C:\Users\Work\source\repos\HW 27\HW 27\obj\Debug\HW 27.exe
-C:\Users\Work\source\repos\HW 27\HW 27\obj\Debug\HW 27.pdb
